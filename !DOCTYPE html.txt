@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ambhareesh K | Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #333;
+      text-align: center;
+    }
+    img {
+      display: block;
+      margin: 20px auto;
+      max-width: 200px;
+      border-radius: 50%;
+    }
+    p {
+      text-align: justify;
+    }
+    hr {
+      margin: 40px 0;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Ambhareesh K</h1>
+  <img src="profile.jpg" alt="Ambhareesh K">
+
+  <h2>Summary</h2>
+  <p>
+    Marketing and analytics-focused management graduate with hands-on experience in digital marketing, campaign execution, CRM systems, and market research. Skilled in Google Analytics, SEO, Power BI, and Canva to drive data-informed marketing decisions and lead generation. Adept at stakeholder coordination, content design, and performance tracking with a proactive and analytical mindset.
+  </p>
+
+  <hr>
+
+  <h2>Experience</h2>
+  <p>
+    <strong>Key Account Manager – Muthoot Risk Insurance and Broking Services</strong><br>
+    May 2024 – Mar 2025<br>
+    • Managed 30+ corporate clients for insurance solutions.<br>
+    • Created LinkedIn content via Canva, used Apollo.io & Lusha for lead data.<br>
+    • Converted 3 corporate clients into long-term partners.<br>
+    • Analyzed proposals, handled RFQs, and boosted outreach across Chennai.
+  </p>
+  <p>
+    <strong>Market Research Intern – Sundaram Business Services</strong><br>
+    May 2023 – June 2023<br>
+    • Conducted competitor benchmarking for 100+ firms.<br>
+    • Used Google Analytics and LinkedIn Analytics to optimize messaging.<br>
+    • Managed Zoho CRM, generated 40+ qualified B2B leads.<br>
+    • Designed marketing visuals aligned with brand tone.
+  </p>
+  <p>
+    <strong>Intern – Oriental Insurance Company</strong><br>
+    • Researched target audience needs and preferences for insurance coverage, benefits, and policy terms.<br>
+    • Analyzed competitor policies to identify coverage options and benefits for marketing strategy.<br>
+    • Participated in focus groups to understand customer perceptions and insights.
+  </p>
+
+  <hr>
+
+  <h2>Projects</h2>
+  <p>
+    <strong>AI-Powered Chatbot for Travel Help Desk</strong><br>
+    • Prepared a Gantt chart to track and monitor project progress.<br>
+    • Developed a database of 1,000+ FAQs and deployed a chatbot using Chatbase.
+  </p>
+  <p>
+    <strong>Startup Idea for Catering Services</strong><br>
+    • Conducted a feasibility study, defined requirements, and engaged with the target audience.<br>
+    • Created a framework with 10 parameters to select the best catering service providers.
+  </p>
+  <p>
+    <strong>Strategy Consulting Job Simulation on Forage</strong><br>
+    • Advised a hypothetical telco company facing declining profits.<br>
+    • Conducted market research and delivered insights on potential solutions.
+  </p>
+  <p>
+    <strong>LinkedIn Content Creation & Personal Branding</strong><br>
+    • Created and published daily posts on trending topics and marketing insights.<br>
+    • Increased engagement using hashtags, timely content, and visuals designed in Canva.<br>
+    • Tracked performance using LinkedIn Analytics.
+  </p>
+
+  <hr>
+
+  <h2>Education</h2>
+  <p>
+    Xavier Institute of Management and Entrepreneurship, Chennai, Tamil Nadu / PGDM (Marketing, Finance) / 2022–2024<br>
+    DG Vaishnav College, Chennai, Tamil Nadu / BBA / 2018–2021<br>
+    D A V Senior Secondary School / 12th Grade (Commerce) / 2018
+  </p>
+
+  <hr>
+
+  <h2>Contact</h2>
+  <p>
+    ✉️ <a href="mailto:ambharresh@gmail.com">ambharresh@gmail.com</a><br>
+    🔗 <a href="https://www.linkedin.com/in/ambhareesh-kasthurirangan-438455241/" target="_blank">LinkedIn</a>
+  </p>
+
+</body>
+</html>
+
